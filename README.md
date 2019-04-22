@@ -44,7 +44,7 @@ c = a;
 ### Your solution here:
 1.  What is `a`?
 ```
-a is (your answer here)
+a is (your answerre)
 ```
 2.  What is `b`?
 ```
