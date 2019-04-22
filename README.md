@@ -1,6 +1,6 @@
 # Homework - JS Practice and Project HTML/CSS Draft
 
-![](https://media.giphy.com/media/10bdAP4IOmoN7G/giphy.gif)
+![](http://media.giphy.com/media/10bdAP4IOmoN7G/giphy.gif)
 
 # Part 1 - Javascript Practice
 
